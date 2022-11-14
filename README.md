@@ -1,0 +1,2 @@
+# Sudoku
+lets play Sudoku
